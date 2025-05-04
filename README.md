@@ -1,6 +1,6 @@
 # 365-Day Computer Science Challenge Tracker
 
-![Project Screenshot](/screenshot.png)
+![Project Screenshot](/WebUIV01.png)
 
 ## 🚀 Overview
 A powerful dashboard to track your 365-day computer science learning journey, placement preparation, hackathons, competitive coding, and achievements. Stay motivated and organized!
